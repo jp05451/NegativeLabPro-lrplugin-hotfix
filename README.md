@@ -6,8 +6,14 @@ NEGATIVE LAB PRO brings impossibly good color negative conversions right into yo
 
 ## How to get this to work
 1. Download Negative Lab Pro Trial from https://www.negativelabpro.com/
+2. Install NegativeLabPro
+3. Add .bak to Authenticator.lua, Util.lua, PluginManager.lua
+4. Add files Authenticator.lua, Util.lua, PluginManager.lua from this repository
+5. Launch Lightroom Classic CC
+6. Activate NegativeLabPro in Lightroom Classic CC using key 12345678
+7. Exit Lightroom Classic CC
+8. Delete Util.lua, PluginManager.lua
+9. Restore original Util.lua, PluginManager.lua but **DON'T** restore Authenticator.lua
+10. Voilà! Now you have an active version of Negative Lab Pro, if you like it, I encourage you to buy it from the developers
 
-2. Replace content of the lrplugin with this one file from this repo
-  - Authenticator.lua
-3. Activate Negative Lab Pro with license 12345678
-4. Voilà! Now you have an active version of Negative Lab Pro, if you like it, I encourage you to buy it from the developers
+Above method should work on macOS and Windows
