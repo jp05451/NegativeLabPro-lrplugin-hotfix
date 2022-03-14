@@ -1,4 +1,4 @@
-# NegativeLabPro-lrplugin-hotfix CC BY-NC 4.0
+# NegativeLabPro-lrplugin-hotfix
 Hotfix for licensing in Negative Lab Pro for Lightroom plugin
 
 ## About Negative Lab Pro
