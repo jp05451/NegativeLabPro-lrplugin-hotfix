@@ -7,9 +7,7 @@ NEGATIVE LAB PRO brings impossibly good color negative conversions right into yo
 ## How to get this to work
 1. Download Negative Lab Pro Trial from https://www.negativelabpro.com/
 
-2. Replace content of the lrplugin with this three files from this repo
+2. Replace content of the lrplugin with this one file from this repo
   - Authenticator.lua
-  - PluginManager.lua
-  - Util.lua
 3. Activate Negative Lab Pro with license 12345678
 4. Voilà! Now you have an active version of Negative Lab Pro, if you like it, I encourage you to buy it from the developers
