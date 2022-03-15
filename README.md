@@ -18,7 +18,7 @@ NEGATIVE LAB PRO brings impossibly good color negative conversions right into yo
 
 Above method should work on macOS and Windows
 
-##Compatibility 
+## Compatibility 
 This hotfix is currently supported in:
 | Version | Compatibility |
 |:-------:|:-------------:|
