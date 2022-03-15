@@ -17,3 +17,12 @@ NEGATIVE LAB PRO brings impossibly good color negative conversions right into yo
 10. Voilà! Now you have an active version of Negative Lab Pro, if you like it, I encourage you to buy it from the developers
 
 Above method should work on macOS and Windows
+
+##Compatibility 
+This hotfix is currently supported in:
+| Version | Compatibility |
+|:-------:|:-------------:|
+|  2.0.0  |       ❓       |
+|  2.1.0  |       ❓       |
+|  2.2.0  |       ✅       |
+|  2.3.0b |       ✅       |
