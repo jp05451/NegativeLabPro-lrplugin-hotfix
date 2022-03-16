@@ -28,4 +28,4 @@ This hotfix is currently supported in:
 ## Note
 Above method should work on macOS and Windows but files are from Windows version of this plug-in. If you find better way of activating this let me know. I am currently trying to locate file that stores information about license and activation status of this plug-in.
 
-I tested it on macOS High Sierra, for me it works
+I tested it on iMac Pro 2017 with macOS High Sierra, for me it works
