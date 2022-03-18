@@ -40,5 +40,5 @@ luac.out
 *.hex
 
 # Other
-LICENSE
-README.md
+/LICENSE
+/README.md
