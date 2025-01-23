@@ -12,6 +12,7 @@ This hotfix is currently supported in:
 |  2.1.0  |       ❓       |
 |  2.2.0  |       ✅       |
 |  2.3.0b |       ✅       |
+|  2.4.2 |       ✅       |
 
 ## How to apply this hotfix
 1. Download Negative Lab Pro Trial from https://www.negativelabpro.com/
