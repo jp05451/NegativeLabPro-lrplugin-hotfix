@@ -1,10 +1,10 @@
 1. Download the Negative Lab Pro trial version (2.X.X) from https://www.negativelabpro.com/
 2. Install NegativeLabPro
 3. Open Plug-in Manager(File->Plug-in Manager) and find negativelabpro, click open in Finder
-![Plugin Path](PluginPath.png)
-![Folder](PluginFolder.png)
+![Plugin Path](img/PluginPath.png)
+![Folder](img/PluginFolder.png)
 4. Backup Authenticator.lua, Util.lua, PluginManager.lua
-![Backup File](BackupFile.png)
+![Backup File](img/BackupFile.png)
 5. Add the Authenticator.lua, Util.lua, PluginManager.lua files from this folder
 6. Start Lightroom Classic CC
 
